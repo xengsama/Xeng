@@ -12,6 +12,14 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/0b327a26-f1c8-4b1d-b109-b670d1d7c289"
       }
+    },
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1677042983",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pPVnQrK"
+      }
     }
   }
 }
